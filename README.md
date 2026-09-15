@@ -11,3 +11,4 @@
   | `if (b1) ...` | срабатывает |
   | `if (b3) ...` | не срабатывает |
 
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/e95adeaa-742b-4729-8070-2c7573ce5f32" />
